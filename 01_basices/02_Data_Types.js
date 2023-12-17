@@ -12,4 +12,5 @@ let state;
 //Symbol=> unique
 //Object
 
-console.log(typeof "");
+console.log(typeof null);
+console.log(typeof undefined);
