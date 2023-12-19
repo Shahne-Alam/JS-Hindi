@@ -3,7 +3,7 @@
 // 7 types : String, Number, Boolean, null, undefined, Symbol, BigInt
 
 const outSide = null;
-const bigNumber = 234354623;
+const bigNumber = 234354623n;
 const Id = "shahnealam.com";
 
 console.log(typeof Id)
@@ -24,4 +24,4 @@ let heroobj = {
 const myFunction = function () {
     console.log('myFunction');
 }
-console.log(typeof myFunction)
+console.log(typeof bigNumber);
