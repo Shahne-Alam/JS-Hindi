@@ -16,5 +16,5 @@ const gameName = new String('shahne Alam')
 // console.log(gameName.indexOf('n'));
 // const Newstring = gameName.substring(0, 4);
 // console.log(Newstring);
-const anotherString = gameName.slice(-7, 4);
+const anotherString = gameName.slice(-6, 4);
 console.log(anotherString);
